@@ -123,7 +123,7 @@ a {
 }
 .navbar-dark .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #FFF;
+	color: #D2691E;
 	font-size: 22px;
 	line-height: 30px;
 	font-family: 'FontAwesome';
