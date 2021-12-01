@@ -2,7 +2,7 @@
 
 Tooplate 2114 Pixie
 
-https://www.tooplate.com/view/2114-pixie
+https://www.GemilangStore.com/view/2114-pixie
 
 */
 
@@ -101,7 +101,7 @@ a {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-	color: #3a8bcd;
+	color: #808080;
 }
 .navbar:after {
 	width: 100%;
@@ -116,14 +116,14 @@ a {
 	background-image: none;
 }
 .navbar-dark .navbar-toggler {
-	border-color: #3a8bcd;
-	background-color: #3a8bcd;	
+	border-color: #000000;
+	background-color: #000000;	
 	height: 50px;
 	outline: none;
 }
 .navbar-dark .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #D2691E;
+	color: #ffffff;
 	font-size: 22px;
 	line-height: 30px;
 	font-family: 'FontAwesome';
